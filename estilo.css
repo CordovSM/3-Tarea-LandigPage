@@ -1,0 +1,39 @@
+.has-background-black{
+    background-image: linear-gradient(45deg, #330066 10%, #8000ff 90%);
+    background-repeat: no-repeat;
+}
+
+.navbar-menu{
+    justify-content: center;
+}
+
+.navbar-item{
+    padding: .5rem 3rem 0rem 3rem  !important;
+}
+
+.is-1{
+    font-size: 4rem !important;
+}
+.column{
+    padding: 5rem !important;
+}
+
+.content{
+    text-align: justify;
+}
+
+
+.btn{
+    display: block;
+    box-shadow: 0 5px 10px -3px rgba(0,0,0,.4);
+    background: #8000ff !important;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: bold;
+}
+
+img{
+    width: 50%;
+    height: 100%;
+    margin-left: 20%;
+}
